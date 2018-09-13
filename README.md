@@ -1,5 +1,6 @@
 # Data_Structure_Project1
-# This is 319's project
+
+## This is 319's project
 
 ### 输入格式要求：
 1.每个数字之间至少一个空格
